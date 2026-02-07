@@ -48,3 +48,4 @@ The APK will be in: `app/build/outputs/apk/release/`
 
 - The APK will be unsigned, so you'll need to allow installation from unknown sources
 - For production apps, you'd want to sign the APK with a keystore
+# Hello World Android App
